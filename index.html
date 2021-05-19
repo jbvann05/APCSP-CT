@@ -32,7 +32,9 @@ window.addEventListener('message', function(e) {
             const mainFile = files.filter(file => {
                 return file.isActive;
             })[0];
-            const program = mainFile.text;
+            var rawFile = new XMLHttpRequest();
+            rawFile.open("GET", "main.py", false);
+            const program = rawFile.text;
             postToParent({type: 'program_started'});
             try {
                 evalScript = document.createElement('script');
