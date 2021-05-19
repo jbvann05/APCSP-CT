@@ -1,6 +1,7 @@
 # Credit to the J! Archive (https://j-archive.com/) for the questions, and Jeopardy! for the questions, name, and idea. 
 import random
 from brython_graphics import *
+import requests
 def create_board(completed):
     board_rect = Rectangle(get_width(), get_height())
     board_rect.set_position(0, 0)
