@@ -1,0 +1,17 @@
+{
+    "It's when you email someone the alphabet & include a second recipient secretly": "ABCC"
+    "A smoothie chain that was a Roman general": "Orange Julius Caesar"
+    "U.S. executive mansion that's a legal confinement to one's own residence instead of prison": "White House arrest"
+    "Simple wooden furniture for lunch in a park that outlines what's contained in a book": "A picnic table of contents"
+    "Giant bell in the London clock tower that published “Poor Richard's Almanack”": "Big Ben Franklin"
+    "Nature Valley Crunchy Oats 'N Honey Snack that's a rite of passage for a Jewish 13-year-old": "Granola bar mitzvah"
+    "An Ancient Egyptian collection of funerary texts that is a Robin Williams film with the message “Carpe diem”": "The Book of the Dead Poets Society"
+    "Shakespeare comedy that's cooked until all the red in the steak is gone & the meat is 170 degrees internally": "All's Well That Ends Well Done"
+    "We'll see “The Friendly Confines” & lots of ivy on this group school outing in Chicago": "Wrigley Field trip"
+    "“Eternal” slogan for the homeland of Marvel's Black Panther & his favorite mall retail clothier": "Wakanda Forever 21"
+    "On an Alec Baldwin-hosted game show, Tyrion Lannister & Jon Snow try to fill in the blanks": "Match Game of Thrones"
+    "“24K Magic” singer who is a type of robotic vehicle that explored the surface of the red planet": "Bruno Mars rover"
+    "South African host of “The Daily Show” who came up with an American dictionary of the English language": "Trevor Noah Webster"
+    "Late 19th century circus siblings who are the subject of Dostoyevsky's last, & some say greatest, novel": "The Ringling Brothers Karamazov"
+    "A proverb about using your generosity for those around you becomes a mega-hardware store chain": "Charity begins at Home Depot"
+}
